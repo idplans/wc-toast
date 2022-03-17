@@ -1,4 +1,4 @@
-import { get } from '../test/utils';
+import { get } from './utils';
 /**
  * Generate an id
  * @returns {string} id
